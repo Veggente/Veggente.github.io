@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Xiaohan Kang&#39;s Site</title>
+    <link>https://Veggente.github.io/categories/</link>
+      <atom:link href="https://Veggente.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 -0400</lastBuildDate>
+    <image>
+      <url>https://Veggente.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://Veggente.github.io/categories/</link>
+    </image>
+    
+    <item>
+      <title>bioinformatics</title>
+      <link>https://Veggente.github.io/categories/bioinformatics/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 -0400</pubDate>
+      <guid>https://Veggente.github.io/categories/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stochastic systems</title>
+      <link>https://Veggente.github.io/categories/stochastic-systems/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 -0400</pubDate>
+      <guid>https://Veggente.github.io/categories/stochastic-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>queueing theory</title>
+      <link>https://Veggente.github.io/categories/queueing-theory/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 -0500</pubDate>
+      <guid>https://Veggente.github.io/categories/queueing-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>game theory</title>
+      <link>https://Veggente.github.io/categories/game-theory/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 -0500</pubDate>
+      <guid>https://Veggente.github.io/categories/game-theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

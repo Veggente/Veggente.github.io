@@ -1,288 +1,201 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/kang-hajek-wu-19/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication_types/2/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/categories/bioinformatics/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/talk/example/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/bruce-hajek/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/categories/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/faqiang-wu/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/talk/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/minglei-wang/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/ying-srikant-kang-17/</loc>
-      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication_types/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/wu-kang-wang-19/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/waseem-haider/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/kang-wang-jaramillo-16/</loc>
-      <lastmod>2016-02-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/william-b.-price/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/kang-jaramillo-ying-15/</loc>
-      <lastmod>2015-07-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/xiaohan-kang/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/kang-hou-ying-15/</loc>
-      <lastmod>2015-06-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/ying-srikant-kang-15/</loc>
-      <lastmod>2015-04-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/yoshie-hanzawa/</loc>
+    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/kang-jaramillo-ying-13/</loc>
-      <lastmod>2013-12-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-hajek-wu-19/</loc>
+    <lastmod>2019-10-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/kang-jaramillo-ying-12-a/</loc>
-      <lastmod>2012-10-01T00:00:00-04:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication_types/1/</loc>
+    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication/kang-jaramillo-ying-10/</loc>
-      <lastmod>2010-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/honghao-wei/</loc>
+    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication_types/1/</loc>
-      <lastmod>2015-06-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/lei-ying/</loc>
+    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication_types/2/</loc>
-      <lastmod>2019-01-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/wei-2019/</loc>
+    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/categories/stochastic-systems/</loc>
+    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/weina-wang/</loc>
+    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/categories/queueing-theory/</loc>
+    <lastmod>2017-02-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/r.-srikant/</loc>
+    <lastmod>2017-02-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/ying-srikant-kang-17/</loc>
+    <lastmod>2017-02-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/publication_types/</loc>
-      <lastmod>2015-06-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/juan-jose-jaramillo/</loc>
+    <lastmod>2016-02-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/slides/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-wang-jaramillo-16/</loc>
+    <lastmod>2016-02-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/slides/example-slides/</loc>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-15/</loc>
+    <lastmod>2015-07-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/</loc>
-      <lastmod>2018-01-13T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/authors/i-hong-hou/</loc>
+    <lastmod>2015-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-hou-ying-15/</loc>
+    <lastmod>2015-06-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/ad-hoc-networksgraph-theoryqueueing-theoryradiofrequency-interferencetelecommunication-network-topologytelecommunication-schedulingtelecommunication-trafficlargest-deficit-first-policyreal-time-traffic-scheduling-problemad-hoc-wireless-networksgeneral-conflict-graph-based-interference-modelsingle-hop-trafficmaximum-delayminimum-packet-numberminimum-packet-fractionlongest-queue-first-policyreal-time-local-pooling-factorr-lpfldflqfinterference-degreeheuristic-consensus-algorithmweight-vectornetwork-topologyschedulesreal-time-systemsdelayswireless-networksvectorsoptimal-schedulinginterferencefluid-limitlargest-deficit-firstlocal-pooling-factorreal-time-schedulingstability/</loc>
-      <lastmod>2016-02-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/ying-srikant-kang-15/</loc>
+    <lastmod>2015-04-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/cloud-computingcomputational-complexityqueueing-theoryrandomised-algorithmsresource-allocationrandomized-load-balancing-methodqueueing-delayspopular-routing-algorithmcloud-computing-applicationsbatch-fillingserversdelaysmarkov-processesqueueing-analysisalgorithm-design-and-analysiscomputerscomplexity-theory/</loc>
-      <lastmod>2015-04-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-13/</loc>
+    <lastmod>2013-12-01T00:00:00-05:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/computational-complexityqueueing-theoryradiofrequency-interferenceschedulingstabilitytelecommunication-trafficwireless-channelslinear-wireless-networksqueue-first-schedulingone-hop-interferencelongest-queue-firstlqfback-pressure-algorithmcomputational-complexitylow-complexity-schedulingsingle-hop-traffic-flowsmultihop-traffic-flowslocal-pooling-factorsmaximal-stabilityinterferenceschedulesspread-spectrum-communicationthroughputvectorsstability-analysisdelays/</loc>
-      <lastmod>2013-12-01T00:00:00-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-wang-jaramillo-13/</loc>
+    <lastmod>2013-07-01T00:00:00-04:00</lastmod>
+  </url>
   
-    
-    <url>
-    
-      <loc>https://github.com/Veggente/Veggente.github.io/tags/media-streamingpeer-to-peer-computingpeer-churnpeer-to-peer-technologymedia-streamingp2p-streaming-networkcontent-chunksrandomly-selected-peerchunk-selection-policyp2p-live-streamingstatic-network-scenarioplayout-probabilitybuffer-sizepeer-to-peer-computingserversanalytical-modelsapproximation-methodsmathematical-modelavailabilitysteady-state/</loc>
-      <lastmod>2012-10-01T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-12-a/</loc>
+    <lastmod>2012-10-01T00:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-10/</loc>
+    <lastmod>2010-01-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Veggente.github.io/categories/game-theory/</loc>
+    <lastmod>2010-01-01T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Veggente.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Veggente.github.io/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Veggente.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://Veggente.github.io/tags/</loc>
+  </url>
   
 </urlset>
