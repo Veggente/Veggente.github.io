@@ -1,201 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   
   <url>
-    <loc>https://Veggente.github.io/publication_types/2/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/categories/bioinformatics/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/bruce-hajek/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/categories/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/faqiang-wu/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/minglei-wang/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/publication_types/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/publication/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/publication/wu-kang-wang-19/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/waseem-haider/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/william-b.-price/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/xiaohan-kang/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/category/%E6%95%99%E7%A8%8B/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/yoshie-hanzawa/</loc>
-    <lastmod>2019-11-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/publication/kang-hajek-wu-19/</loc>
-    <lastmod>2019-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/publication_types/1/</loc>
-    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/honghao-wei/</loc>
-    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/lei-ying/</loc>
-    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/publication/wei-2019/</loc>
-    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/categories/stochastic-systems/</loc>
-    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/weina-wang/</loc>
-    <lastmod>2019-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/categories/queueing-theory/</loc>
-    <lastmod>2017-02-01T00:00:00-05:00</lastmod>
-  </url>
-  
+    <loc>https://veggente.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/authors/r.-srikant/</loc>
-    <lastmod>2017-02-01T00:00:00-05:00</lastmod>
-  </url>
-  
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://Veggente.github.io/publication/ying-srikant-kang-17/</loc>
-    <lastmod>2017-02-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/authors/juan-jose-jaramillo/</loc>
-    <lastmod>2016-02-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/kang-wang-jaramillo-16/</loc>
-    <lastmod>2016-02-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-15/</loc>
-    <lastmod>2015-07-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/authors/i-hong-hou/</loc>
-    <lastmod>2015-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/kang-hou-ying-15/</loc>
-    <lastmod>2015-06-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/ying-srikant-kang-15/</loc>
-    <lastmod>2015-04-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-13/</loc>
-    <lastmod>2013-12-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/kang-wang-jaramillo-13/</loc>
-    <lastmod>2013-07-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-12-a/</loc>
-    <lastmod>2012-10-01T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/publication/kang-jaramillo-ying-10/</loc>
-    <lastmod>2010-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/categories/game-theory/</loc>
-    <lastmod>2010-01-01T00:00:00-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://Veggente.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+    <loc></loc><changefreq>weekly</changefreq></url></urlset>
